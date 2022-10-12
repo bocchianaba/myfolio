@@ -1,7 +1,7 @@
 <template>
   <div>
   <Sidebar/>
-  <div> Hi I"m Bocchi Anaba</div>
+  <h1> Hi I"m Bocchi Anaba</h1>
   </div>
 </template>
 
